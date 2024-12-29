@@ -58,6 +58,13 @@
   </tbody>
 </table>
 
+<p align="center"> 
+  <a href="https://linkedin.com/in/nthorkelsson" target="blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-%20blue?logo=LinkedIn&link=https%3A%2F%2Fca.linkedin.com%2Fin%2Fnthorkelsson">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nthork&label=Profile%20views&color=0e75b6&style=flat" alt="nthork"/>
+</p>
+
 
 <!---
 <h3 align="left">Connect with me:</h3>
