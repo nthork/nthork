@@ -3,7 +3,8 @@
 <h1 align="center">Hello 👋, I'm Nate</h1>
 <h3 align="center">A full stack software developer and tech lover from 🇨🇦</h3>
 
-<b align="center">• I’m currently working on my skills with the Linux Environment, Cloud Computing, and Unreal Engine.</b>
+<b align="center">• I’m currently working on my skills with Backend/Database uses, and some modeling for UE5 and Unity.</b>
+<b align="center">• I like Web Development, I work on it in side-projects, and have Enterprise Development experience.</b>
 
 ##
 
